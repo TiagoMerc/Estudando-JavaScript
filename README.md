@@ -1,4 +1,5 @@
 # Estudando JavaScript
 
-Livro **Jon Duckett** JAVASCRIPT & JQUERY desenvolvimento de interfacces web interativas
+Livro: JAVASCRIPT & JQUERY desenvolvimento de interfacces web interativas
 
+**Autor:** Jon Duckett
